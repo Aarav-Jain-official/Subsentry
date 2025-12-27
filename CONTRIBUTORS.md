@@ -108,3 +108,8 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Naman Pal
 - **GitHub:** https://github.com/Naman2251
 - **About:** I am B.Tech. IT first year student at IIIT Allahabad. Grateful to be a part of OpenCode program.
+
+- **Name:** Atharva Mehta
+- **GitHub:** https://github.com/Atharva-insane
+- **About:** Science enthusiast
+
